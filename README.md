@@ -1,7 +1,7 @@
 # ordProgTrim2
 Ordinaria Prog Trim2
 # 25 de Mayo de 2020 16:00h.
-# Tiempo examen 3h
+# Tiempo examen 2h 30min
 
 ### NOMBRE Y APELLIDOS:
 ### DNI/NIE:
